@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    printf("Hello, world!\n");
+    printf("./0-preprocessor");
     return (0);
 }
