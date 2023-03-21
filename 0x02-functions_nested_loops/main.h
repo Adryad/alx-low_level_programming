@@ -1,5 +1,5 @@
-#ifndef ALX_H
-#define ALX_H
+#ifndef main_H
+#define main_H
 
 char _putchar(char c);
 void print_alphabet(void);
@@ -15,4 +15,4 @@ int add(int one, int two);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif /* ALX_H */
+#endif /* main_H */
